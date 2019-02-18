@@ -17,7 +17,7 @@ Die Tastenzeichen auf der Tastatur bleiben hier unangetastet.
 # Installation
 Vorbereitungen:
 
-Tauschen sie die Tasten Y und Z aus alles weitere bleibt gleich.
+Tauschen sie die Tasten Y und Z aus (von QWERY nach QWRTZ) alles weitere bleibt gleich.
 
 Installieren sie den Tastaturtreiber.
 
