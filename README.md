@@ -12,9 +12,9 @@ Erweiterter Zeichensatz Deutsch Unicode.
 
 Mit Alt+CTRL oder AltGr und AOUS bekommen sie ÄÖÜß.
 
-# Installation
 Die Tastenzeichen auf der Tastatur bleiben hier unangetastet.
 
+# Installation
 Vorbereitungen:
 
 Tauschen sie die Tasten Y und Z aus alles weitere bleibt gleich.
